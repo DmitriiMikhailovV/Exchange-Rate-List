@@ -1,0 +1,1 @@
+export { ExchangeRateListPage } from './ExchangeRateListPage'
